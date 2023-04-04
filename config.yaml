@@ -8,9 +8,10 @@ params:
   main:
     enabled: true
     headerTitle: Durham Social Club
+    metaKeywords: "social,meetup,gathering,durham"
     img: https://pixabay.com/get/g3c57e3a9afad9d0108eef0af995ca7fb1636c2bdfb6da51dced2ebb620cb23ae10daf2f91a8753bb174a3ec4484c18bf8cf0de376fa7dd580ac3261038b693773d3a60a71faad547c56e29f602b242c7_1920.jpg
     quote: Welcome to the Durham Social Club!
-    description:  |-
+    description: |-
       We are a small group of people living in the Durham Region of Ontario Canada, 
       looking to help people in the area meet new friends and connect socially.
     licenseUrl: https://github.com/michael-valdron/durham-social-club/blob/main/LICENSE
