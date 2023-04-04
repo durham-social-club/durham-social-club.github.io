@@ -1,4 +1,4 @@
-module github.com/michael-valdron/durham-social-club
+module github.com/durham-social-club/durham-social-club.github.io
 
 go 1.19
 
