@@ -14,7 +14,7 @@ params:
     description: |-
       We are a small group of people living in the Durham Region of Ontario Canada, 
       looking to help people in the area meet new friends and connect socially.
-    licenseUrl: https://github.com/michael-valdron/durham-social-club/blob/main/LICENSE
+    licenseUrl: https://github.com/durham-social-club/durham-social-club.github.io/blob/main/LICENSE
   social:
     - name: facebook
       url: https://www.facebook.com/groups/durhamsocialclub
