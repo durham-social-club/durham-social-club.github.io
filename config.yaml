@@ -18,5 +18,3 @@ params:
   social:
     - name: facebook
       url: https://www.facebook.com/groups/durhamsocialclub
-    - name: discord
-      url: https://discord.gg/zTgnA8dYHt
